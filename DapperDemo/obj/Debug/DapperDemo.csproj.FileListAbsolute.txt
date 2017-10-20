@@ -1,0 +1,9 @@
+C:\Users\Lifuquan.ET\Desktop\temp\DapperDemo\DapperDemo\bin\Debug\DapperDemo.exe.config
+C:\Users\Lifuquan.ET\Desktop\temp\DapperDemo\DapperDemo\bin\Debug\DapperDemo.exe
+C:\Users\Lifuquan.ET\Desktop\temp\DapperDemo\DapperDemo\bin\Debug\DapperDemo.pdb
+C:\Users\Lifuquan.ET\Desktop\temp\DapperDemo\DapperDemo\bin\Debug\Dapper.dll
+C:\Users\Lifuquan.ET\Desktop\temp\DapperDemo\DapperDemo\bin\Debug\Dapper.xml
+C:\Users\Lifuquan.ET\Desktop\temp\DapperDemo\DapperDemo\obj\Debug\DapperDemo.csprojResolveAssemblyReference.cache
+C:\Users\Lifuquan.ET\Desktop\temp\DapperDemo\DapperDemo\obj\Debug\DapperDemo.csproj.CoreCompileInputs.cache
+C:\Users\Lifuquan.ET\Desktop\temp\DapperDemo\DapperDemo\obj\Debug\DapperDemo.exe
+C:\Users\Lifuquan.ET\Desktop\temp\DapperDemo\DapperDemo\obj\Debug\DapperDemo.pdb
